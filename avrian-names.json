@@ -1,0 +1,98 @@
+{
+    "groups": [
+        {
+            "tags": [],
+            "itemGroups": [
+                {
+                    "weight": 1,
+                    "items": []
+                }
+            ]
+        },
+        {
+            "tags": [
+                "first-name",
+                "female",
+                "lakoar"
+            ],
+            "itemGroups": [
+                {
+                    "weight": 1,
+                    "items": [
+                        "Khato",
+                        "Aliho",
+                        "Shiho",
+                        "Neksho",
+                        "Neho",
+                        "Tiho",
+                        "T'hago",
+                        "Negho",
+                        "Harakoro",
+                        "Shakhago"
+                    ]
+                }
+            ]
+        },
+        {
+            "tags": [
+                "first-name",
+                "male",
+                "lakoar"
+            ],
+            "itemGroups": [
+                {
+                    "weight": 1,
+                    "items": [
+                        "Khafe",
+                        "Tarr",
+                        "T'harr",
+                        "Skarr",
+                        "Shask",
+                        "Narsh",
+                        "K'hane",
+                        "Kshah'ha",
+                        "Tarb'ha",
+                        "Marshe",
+                        "Nekshe",
+                        "Gass",
+                        "G'hass",
+                        "P'harr",
+                        "Khask",
+                        "Shakshe",
+                        "Mass",
+                        "Shak'ha",
+                        "P'hurr"
+                    ]
+                }
+            ]
+        },
+        {
+            "tags": [
+                "last-name",
+                "lakoar"
+            ],
+            "itemGroups": [
+                {
+                    "weight": 1,
+                    "items": [
+                        "Khash",
+                        "Tashagho",
+                        "Kshakhamogho",
+                        "Takakshaki",
+                        "Alakshahi",
+                        "Khatakoro",
+                        "Nalakhashi",
+                        "Khai",
+                        "Kshathagati",
+                        "Shanaki",
+                        "Lhakhi",
+                        "Khalai",
+                        "Shakahori",
+                        "Khikori",
+                        "Takhashi"
+                    ]
+                }
+            ]
+        }
+    ]
+}
