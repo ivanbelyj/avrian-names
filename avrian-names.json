@@ -12,6 +12,101 @@
         {
             "tags": [
                 "first-name",
+                "male",
+                "thekho",
+                "fuor"
+            ],
+            "itemGroups": [
+                {
+                    "weight": 1,
+                    "items": [
+                        "Kafweh",
+                        "Khafri",
+                        "Khesavi",
+                        "Fowweh",
+                        "Fwassi",
+                        "Eshesi",
+                        "Ngurae",
+                        "Kawr",
+                        "Heurae",
+                        "Kayo",
+                        "Lakho",
+                        "Laas",
+                        "Kawo",
+                        "Heuvi"
+                    ]
+                }
+            ]
+        },
+        {
+            "tags": [
+                "first-name",
+                "female",
+                "thekho",
+                "fuor"
+            ],
+            "itemGroups": [
+                {
+                    "weight": 1,
+                    "items": [
+                        "Laafy",
+                        "Thaayi",
+                        "Eshiayi",
+                        "Shiwayi",
+                        "Faayi",
+                        "Sami"
+                    ]
+                }
+            ]
+        },
+        {
+            "tags": [
+                "first-name",
+                "thekho",
+                "fuor"
+            ],
+            "itemGroups": [
+                {
+                    "weight": 1,
+                    "items": [
+                        "Oahhe",
+                        "Tesakhi",
+                        "Nguari",
+                        "Lkhayi",
+                        "Taari"
+                    ]
+                }
+            ]
+        },
+        {
+            "tags": [
+                "first-name",
+                "male",
+                "thekho",
+                "ofarri"
+            ],
+            "itemGroups": [
+                {
+                    "weight": 1,
+                    "items": [
+                        "Wamri",
+                        "Fkai",
+                        "Lakhyo",
+                        "Okhayyo",
+                        "Osayyo",
+                        "Wonarri",
+                        "Shakhlyw",
+                        "Dalmo",
+                        "Toowk",
+                        "Slofw",
+                        "Kakhlyw"
+                    ]
+                }
+            ]
+        },
+        {
+            "tags": [
+                "first-name",
                 "female",
                 "lakoar"
             ],
